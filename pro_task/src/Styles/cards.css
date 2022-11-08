@@ -1,0 +1,13 @@
+#card{
+    border-radius: 10px;
+    background-color: #F7F7F7;
+
+}
+
+#card:hover{
+    border: 2px solid;
+    border-color: blue;
+    transition: .2s;
+    background-color: white;
+
+}

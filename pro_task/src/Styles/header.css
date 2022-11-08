@@ -1,0 +1,28 @@
+.p_tag{
+    color: #ABBBAB;
+}
+
+#p{
+    color: #2E2E2E;
+    font-size: 1rem;
+    font-weight: bold;
+
+
+}
+
+
+input{
+    width: 60%;
+    padding: 10px;
+    border-style: solid;
+    border-color: #EEEEEE;
+    display: block;
+    margin: auto;
+    background-color: #F7F7F7;
+
+}
+
+input:focus, textarea:focus{
+    outline: 0;
+    background-color: #FFFFFF;
+    }
